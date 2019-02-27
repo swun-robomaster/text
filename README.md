@@ -1,5 +1,5 @@
 # text
 int main()
 {
-printf(')welcome to RM");
+printf("welcome to RM");
 }
