@@ -1,5 +1,9 @@
 # text
-int main()
+
+#include <iostream>
+  
+int main(void)
 {
-printf("welcome to RM");
+    cout << "Hello RM" << endl;
+    return 0;
 }
